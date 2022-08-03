@@ -1,4 +1,4 @@
-<h3 align="center"> Classic Car Racing game using Vanilla JavaScript </h3>
+<h3 align="center"> Classic Car Racing game  </h3>
 
 _**Technology Used**_
 
